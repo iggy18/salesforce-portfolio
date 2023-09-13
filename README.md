@@ -3,7 +3,7 @@
 
 Hello there! Welcome to my Salesforce Developer Portfolio. Dive deep and explore my skills not just as a Salesforce Developer, but also as an Experience Cloud Developer. From classes to triggers, to Lightning Web Components (LWC), you'll find them all showcased here.
 
-- [visit my salesforce experience site/portfolio](sethmcfeeters-dev-ed.develop.my.site.com)
+- [visit my salesforce experience site/portfolio](https://www.sethmcfeeters-dev-ed.develop.my.site.com)
 
 
 ## 🚀 Features
