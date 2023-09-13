@@ -1,4 +1,4 @@
-![Salesforce Banner](https://place-hold.it/1000x150/009EDB/FFFFFF?text=Seth+Mcfeeters+Salesforce+Developer+Portfolio&bold=true&fontsize=50)
+![Salesforce Banner](https://place-hold.it/1000x150/009EDB/FFFFFF?text=Seth+Mcfeeters&bold=true&fontsize=50)
 # 🌩️ Salesforce Developer Portfolio
 
 Hello there! Welcome to my Salesforce Developer Portfolio. Dive deep and explore my skills not just as a Salesforce Developer, but also as an Experience Cloud Developer. From classes to triggers, to Lightning Web Components (LWC), you'll find them all showcased here.
