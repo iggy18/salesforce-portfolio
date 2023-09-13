@@ -1,18 +1,27 @@
-# Salesforce DX Project: Next Steps
+![Salesforce Banner](https://place-hold.it/1000x150/009EDB/FFFFFF?text=Seth+Mcfeeters+Salesforce+Developer+Portfolio&bold=true&fontsize=50)
+# 🌩️ Salesforce Developer Portfolio
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Hello there! Welcome to my Salesforce Developer Portfolio. Dive deep and explore my skills not just as a Salesforce Developer, but also as an Experience Cloud Developer. From classes to triggers, to Lightning Web Components (LWC), you'll find them all showcased here.
 
-## How Do You Plan to Deploy Your Changes?
+- [click here to visit my salesforce experience site/portfolio] (sethmcfeeters-dev-ed.develop.my.site.com)
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
+## 🚀 Features
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+- **Experience Site**: Take a walk through the interactive experience site that I've designed and developed. I built it to my skills in Experience Cloud development.
 
-## Read All About It
+- **Classes, Triggers & LWC**: Venture into the `force > main > default` directory and you'll find my meticulously crafted Salesforce classes, triggers, and LWCs. Every piece of code tells a story of a problem solved and a challenge overcome. 
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- **identify code I've written**: When an experience cloud is deployed it comes with quite a few controllers and test classes. Because of this I will be adding SETH_{class name} to the classes that I have created so you can easily identify my work.
+
+## 🔍 How to Explore
+
+1. Begin with the Experience Site to get a feel of my user interface and user experience skills.
+2. Head over to the `force > main > default` directory. Here's what you'll find:
+   - 📁 **Classes**: My apex classes that bring the business logic to life.
+   - 📁 **Triggers**: Automated actions for streamlined processes.
+   - 📁 **LWC**: Dive into modern Salesforce UI development with my Lightning Web Components.
+
+---
+
+🚀 **Let's build robust Salesforce solutions together!**
